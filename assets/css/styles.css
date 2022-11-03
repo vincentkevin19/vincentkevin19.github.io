@@ -1178,7 +1178,8 @@ img {
   }
 
   .about__description {
-    text-align: initial;
+    text-align: justify;
+    text-justify: auto;
   }
 
   .about__info {
